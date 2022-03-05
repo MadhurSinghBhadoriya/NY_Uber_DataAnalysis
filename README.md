@@ -1,6 +1,6 @@
 # NY_Uber_DataAnalysis
 
-Analysis of Uber Trips in New York (files)
+Analysis of Uber Trips in New York
 
 • Performed Data Wrangling & Data Formatting on data for further analysis.
 
