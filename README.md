@@ -1,6 +1,7 @@
 # NY_Uber_DataAnalysis
 
 Analysis of Uber Trips in New York (files)
+
 • Performed Data Wrangling & Data Formatting on data for further analysis.
 
 • Utilizing Heat-Map, determined the critical Hours & Days, most busy Region in city.
